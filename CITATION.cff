@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the associated article and repository record when using this code."
+title: "Code for Geometry-Conditioned Basin Initialization for Variational Quantum Eigensolvers in Strongly Correlated Molecules"
+type: software
+authors:
+  - family-names: Wang
+    given-names: Yangshuai
+    affiliation: "Department of Mathematics, National University of Singapore"
+date-released: 2026-08-04
+license: MIT
+keywords:
+  - variational quantum eigensolver
+  - quantum algorithms
+  - molecular electronic structure
+  - symmetry-constrained machine learning
+  - VQE initialization
